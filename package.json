@@ -2,9 +2,9 @@
   "name": "event-loop",
   "version": "1.0.0",
   "description": "",
-  "main": "streams.js",
+  "main": "modules.js",
   "scripts": {
-    "start": "nodemon streams.js"
+    "start": "nodemon modules.js"
   },
   "author": "Jonathan Cohen",
   "license": "ISC",
