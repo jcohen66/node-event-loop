@@ -1,0 +1,14 @@
+{
+  "name": "event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-loop.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jonathan Cohen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
